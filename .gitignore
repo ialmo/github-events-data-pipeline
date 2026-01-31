@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Dados gerados pelo pipeline
+data/raw/
+data/processed/
+
+# Banco
+*.sqlite
+
+# VS Code
+.vscode/
+
